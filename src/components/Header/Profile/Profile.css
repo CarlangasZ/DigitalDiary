@@ -1,0 +1,36 @@
+.card{
+
+    background-color: #2E3943;
+    justify-content: center;
+    border: 0.2rem inset #BEB0AD;
+
+}
+
+.card-img-top{
+
+    border-bottom: #281D1C 0.15rem solid;
+
+}
+
+.card-title{
+
+    color: #ffffff;
+    background-color: #130E0D;
+    border-radius: 1rem 1rem 0 0;
+
+}
+
+.card-text{
+
+    background-color: #A5A3AD;
+    border-radius: 0 0 1rem 1rem;
+    
+
+}
+
+.card-link{
+
+    text-decoration: none;
+    color: #BEB0AD;
+
+}
